@@ -3,4 +3,4 @@
 ### This is an initial readme.md file for the lab
 
 Image:
-![](3111_la1_sc.png)
+![](3111_la1.png)
